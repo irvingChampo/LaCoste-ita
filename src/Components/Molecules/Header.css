@@ -1,0 +1,32 @@
+.Header{
+    width: 100%;
+    background-color: #313030;
+    color: white;
+    height: auto;
+    display: flex;
+    box-shadow: 2px 2px 2px #F70CFC;
+}
+h1{
+    text-shadow: 2px 2px 2px #F70CFC;
+    font-size: 3vW;
+}
+
+.Logo{
+    width: 35%;
+    padding: 1%;
+    border-radius: 50%;
+    margin: 2%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.divImg{
+    width: 20%;
+}
+.divTitle{
+    width: 80%;
+    margin-right: 16%;
+    display: flex;
+    justify-content: center;
+}

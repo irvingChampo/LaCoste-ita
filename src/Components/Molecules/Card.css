@@ -1,0 +1,44 @@
+/* Card.css */
+.Card {
+    width: 25vh;
+    height: 25vh;
+    padding: 20px;
+    margin: 1%;
+    border-radius: 8px;
+    background-color: #494646;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.CardImage {
+    width: 40%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.CardName {
+    margin: 10px 0;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.CardPrice {
+    margin: 10px 0;
+    color: #888;
+}
+
+.headerCard{
+    width: 100%;
+    height: 5vh;
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.Eliminar{
+    width: 40%;
+}

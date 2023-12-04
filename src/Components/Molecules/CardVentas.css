@@ -1,0 +1,52 @@
+.Numero{
+    width: 70%;
+    height: auto;
+}
+
+.Cantidad{
+    width: 10%;
+    height: auto;
+    color: white;
+    border: solid 1px #F70CFC;
+    background-color: transparent;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Precio{
+    width: 10%;
+}
+
+.Nombre{
+    width: 80%;
+    height: auto;
+}
+
+.divVentas{
+    width: 100%;
+    margin: 1%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Delete{
+    width: 50%;
+}
+
+.ButtonVentas{
+    width: 12%;
+    height: 4vh;
+    margin: 1%;
+    background-color: transparent;
+    border-radius: 10px;
+    color: white;
+    font-size: 1vw;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -1px black
+    
+}
+
+.ButtonVentas:hover{
+    background-color: #f959fc4d;
+}

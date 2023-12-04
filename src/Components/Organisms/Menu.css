@@ -1,0 +1,104 @@
+.divPrincipal{
+    width: 96%;
+    height: 76vh;
+    border-radius: 10px;
+    margin: 2%;
+    background-color: #3D3C3C;
+    display: flex;
+    box-shadow: 2px 2px 2px #F70CFC;
+}
+
+.listaVenta{
+width: 25%;
+height: 76vh;
+border-radius: 10px;
+background-color: #313030;
+}
+
+.menuDigital{
+width: 75%;
+height: 76vh;
+border-radius: 10px;
+background-color: transparent;
+box-shadow: 2px 2px 2px #F70CFC;
+}
+
+.headerMenu{
+    width: 100%;
+    height: 15vh;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px #F70CFC;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: end;
+}
+
+.bodyMenu{
+width: 100%;
+height: 70vh;
+border-radius: 10px;
+display: flex;
+}
+
+h2{
+    width: 100%;
+    height: 5vh;
+    text-align: center;
+    color: white;
+    box-shadow: 0 1px 1px #F70CFC;
+    text-shadow: 1px 1px 1px #F70CFC;
+    font-size: 1.5vW;
+}
+
+.Listado{
+    width: 100%;
+    height: 50vh;
+    margin-top: 0.5%;
+    background-color: #313030;
+    box-shadow: 0 1px 1px #F70CFC;
+}
+
+a{
+    text-decoration: none;
+    margin: 1%;
+
+}
+
+p{
+    color: white;
+    text-shadow: 1px 1px 1px #F70CFC;
+    font-size: 1vW;
+    margin: 1%;
+
+}
+
+.Comidas{
+    width: 70%;
+    height: 61vh;
+    box-shadow: 1px 0 2px #F70CFC;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Bebidas{
+    width: 30%;
+    height: 61vh;
+    box-shadow: 1px 0 2px #F70CFC;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Agregar{
+    width: 20%;
+    border: none;
+}
+.realizarVenta{
+    width: 98%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

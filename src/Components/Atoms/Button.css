@@ -1,0 +1,17 @@
+.Button1{
+    width: 30%;
+    height: 5vh;
+    background-color: transparent;
+    border: solid 2px #F70CFC;
+    border-radius: 10px;
+    color: white;
+    font-size: 0.9vw;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -1px black
+}
+.Button1:hover{
+    background-color: #F70CFC;
+    cursor: pointer;
+}
+ .Image{
+    width: 40%;
+ }

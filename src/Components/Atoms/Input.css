@@ -1,0 +1,14 @@
+.Input{
+    width: 60%;
+    height: 4vh;
+    margin: 5%;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+.divInput{
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}

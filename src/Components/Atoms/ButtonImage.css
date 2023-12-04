@@ -1,0 +1,12 @@
+.ButtonFooter{
+    width: 25%;
+    height: 4vh;
+    margin: 5%;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 1vw;
+}
+.ButtonFooter:hover{
+    background-color: #f959fc4d;
+}
+

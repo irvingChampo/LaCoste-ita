@@ -1,0 +1,13 @@
+.Button2{
+    width: 10%;
+    height: 5vh;
+    background-color: transparent;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 1vw;
+    text-shadow: 1px 1px 1px #F70CFC;
+}
+.Button2:hover{
+    cursor: pointer;
+}

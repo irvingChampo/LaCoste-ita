@@ -1,0 +1,81 @@
+.divHistorial{
+    width: 80%;
+    height: 70vh;
+    border-radius: 10px;
+    background-color: #3D3C3C;
+    margin: 5% 10% 0% 10%;
+    box-shadow: 1px 1px 1px #F70CFC;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.Comandas{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.totalVentas{
+    width: 30%;
+    height: 70vh;
+    border-radius: 10px;
+    background-color: #313030;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.HistorialVentas{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.divH3{
+    width: 49%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.divH4{
+    width: 49%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+h3{
+    width: 100%;
+    color: white;
+    text-shadow: 1px 1px 1px #F70CFC;
+    font-size: 1.2vW;
+}
+h4{
+    width: 100%;
+    color: white;
+    text-shadow: 1px 1px 1px #F70CFC;
+    font-size: 1vW;
+}
+/* Estilo para la barra de scroll */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Estilo para el track (la parte que no se mueve) de la barra de scroll */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Estilo para el thumb (la parte que se mueve) de la barra de scroll */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Cambia el color del thumb al pasar el mouse */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  
+

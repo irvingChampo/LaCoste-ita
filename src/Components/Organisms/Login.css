@@ -1,0 +1,53 @@
+.DivLogin{
+    width: 50vh;
+    height: 60vh;
+    background-color: #3C3A3A;
+    box-shadow: 2px 2px 2px #F70CFC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+    border-radius: 10px;
+}
+.SeccionLogin{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.LogoLogin{
+    width: 30%;
+    padding: 1%;
+    border-radius: 50%;
+}
+
+.Botones {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.buttonAlert{
+    width: 100%;
+    height: auto;
+    background-color: green;
+    border-radius: 5px;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
+.buttonAlert2{
+    width: 100%;
+    height: auto;
+    background-color: red;
+    border-radius: 5px;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
